@@ -1,6 +1,6 @@
 # 18F Guides Archive
 
-This is an archival copy of the 18F's guides.
+This is an archival copy of 18F's guides.
 
 18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services. They affirm experiences, build confidence, and empower exceptional digital experiences.
 
