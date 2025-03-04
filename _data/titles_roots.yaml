@@ -1,0 +1,37 @@
+# Title for each guide that will appear in the header, as well as the root subdirectory for the guide
+default:
+  title: Guides
+  root: /
+accessibility:
+  title: Accessibility
+  root: /accessibility/
+agile:
+  title: Agile
+  root: /agile/
+brand:
+  title: Visual identity
+  root: /brand/
+content-guide:
+  title: Content Guide
+  root: /content-guide/
+derisking:
+  title: De-risking Guide
+  root: /derisking/
+derisking-government-tech:
+  title: De-risking Guide
+  root: /derisking-government-tech/
+eng-hiring:
+  title: Engineering Hiring Guide
+  root: /eng-hiring/
+engineering:
+  title: Engineering
+  root: /engineering/
+product: 
+  title: Product Guide
+  root: /product/
+ux-guide:
+  title: User Experience Guide
+  root: /ux-guide/
+methods:
+  title: Methods
+  root: /methods/

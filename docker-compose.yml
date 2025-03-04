@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  guides:
+    build: ./
+    working_dir: /src
+    volumes:
+      - ./:/src
+      - /src/node_modules
+    ports:
+      - 8080:8080
+    environment:
+      - SHELL=/bin/sh
